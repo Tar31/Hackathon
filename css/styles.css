@@ -3,7 +3,7 @@
 body {
   font-size: 16px;
   color: #fff;
-  background:url('images/wallpaper.png');
+  background:url('/images/wallpaper.png');
   font-family: 'Oxygen', sans-serif;
 }
 
